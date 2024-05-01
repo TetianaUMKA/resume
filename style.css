@@ -22,18 +22,13 @@ body {
   padding: 0 20px;
 }
 
-header {
-  margin-bottom: 20px;
-}
-
 .header-container {
   display: flex;
   justify-content: center;
   position: relative;
   width: 480px;
   margin: 0 auto;
-  padding: 60px 0 40px;
-  /* background-color: brown; */
+  padding: 60px 0 60px;
 }
 
 .header-text {
