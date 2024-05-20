@@ -72,7 +72,11 @@ h1 {
 }
 
 .section-container {
+  padding: 10px;
   max-width: 400px;
+  box-shadow: 0px 0px 25px 6px rgba(227, 218, 227, 0.33);
+  -webkit-box-shadow: 0px 0px 25px 6px rgba(184, 149, 184, 0.33);
+  -moz-box-shadow: 0px 0px 25px 6px rgba(135, 108, 135, 0.33);
 }
 
 h2 {
