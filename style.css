@@ -72,8 +72,9 @@ h1 {
 }
 
 .section-container {
-  padding: 10px;
+  padding: 20px 10px;
   max-width: 400px;
+  border-radius: 4px;
   box-shadow: 0px 0px 25px 3px rgba(227, 197, 227, 0.33);
   -webkit-box-shadow: 0px 0px 25px 3px rgba(227, 197, 227, 0.33);
   -moz-box-shadow: 0px 0px 25px 3px rgba(227, 197, 227, 0.33);
